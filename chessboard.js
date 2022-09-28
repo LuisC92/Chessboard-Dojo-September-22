@@ -16,6 +16,7 @@ function chessboard() {
         //Setimo: Colocar cada linha na array geral - Tabuleiro
         chessboard.push(linha)
     }
+    // return chess
     return chessboard
 }
 
