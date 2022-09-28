@@ -16,3 +16,5 @@ In order to represent a chessboard in a program, write a chessboard function tha
 - Create your group branch e.g. group-1
 - Run npm install
 - To test your code write npm test
+
+
